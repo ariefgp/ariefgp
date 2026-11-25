@@ -8,6 +8,7 @@ I turn messy problems into calm, useful products, from the PRD to the production
 
 [![Website](https://img.shields.io/badge/codekarsa.com-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codekarsa.com)
 [![Contra](https://img.shields.io/badge/Work_with_me-Contra-111111?style=for-the-badge)](https://contra.com/ariefgusti)
+[![Upwork](https://img.shields.io/badge/Hire_me-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01135779bc0035c9ae)
 [![Email](https://img.shields.io/badge/Email-arief.gusti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arief.gusti@gmail.com)
 
 </div>
