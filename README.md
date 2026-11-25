@@ -83,6 +83,6 @@ A simple, open-source budgeting app: **know what's left, enjoy what's next**. Sp
 
 <div align="center">
 
-💬 Building something with AI or automation? **[Let's talk.](mailto:arief.gusti@gmail.com)**
+💬 Building something with AI or automation? **[Let's talk](mailto:arief.gusti@gmail.com)** or **[hire me on Upwork](https://www.upwork.com/freelancers/~01135779bc0035c9ae).**
 
 </div>
